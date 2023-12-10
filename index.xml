@@ -7,7 +7,7 @@
 <b:attr name='xmlns:data' value=''/>
 <head>
   
-  <title>Vegacloud Tutorial</title>
+  <title>Linkshortify Tutorial</title>
 <!--[ Meta for browser ]-->
 <meta charset='UTF-8'/>
 <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
@@ -93,11 +93,10 @@ svg.line, svg .line{fill:none!important;stroke:#fff;stroke-linecap:round;stroke-
 <div class='aboutAuthor'>
   <div class='aboutCont'>
     <!--[ Author Profile Picture, Recommended Sizes: 1280&#215;1280px, 720&#215;720px below 30KB for fast loading, use transparent picture ]-->
-    <img alt='Vegacloud' src='https://i.ibb.co/86wSP1V/images-5.jpg'/>
+    <img alt='Linkshortify' src='https://i.ibb.co/qMpSBrH/20231210-234650.jpg'/>
     <!--[ Author Description ]-->
 
-    <iframe width="350" height="300" src="https://www.youtube.com/embed/uu-FDSPwOAE">
-</iframe> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GGsOfn8dqiw?si=5grlL_MJj__AWNN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <br/>
 
       
