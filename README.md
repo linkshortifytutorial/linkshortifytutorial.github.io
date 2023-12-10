@@ -1,1 +1,0 @@
-# linkshortifytutorial.github.io
